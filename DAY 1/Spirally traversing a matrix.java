@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
+
 class Solution {
     // Function to return a list of integers denoting spiral traversal of matrix.
     public ArrayList<Integer> spirallyTraverse(int matrix[][]) {
